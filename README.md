@@ -51,9 +51,6 @@ tcp-three-way-handshake/
 │ └── ack.png
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
